@@ -1,0 +1,3 @@
+# This won't scale, we need to make sure they end up somewhere
+# sensible that can be excluded from git
+coreui
